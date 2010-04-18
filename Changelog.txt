@@ -1,0 +1,15 @@
+| Characters DB Rev: 9582 | MaNGOS DB Rev: 9582 | ScriptDev2 DB Rev: (For MaNGOS: 9444+)
+
+[Rev 1] - Initial Release		//Comment: Nothing to see here, old stuff is gone.
+[Rev 2] - YTDB+UDB+Dual Spec+Vehicles	//Comment: Nothing to see here, old stuff is gone.
+[Rev 3] - UDB Updates			//Comment: Nothing to see here, old stuff is gone.
+[Rev 4] - Database is now based on YTDB.//Comment: Database is now based on YTDB because it features a lot more detailed
+							content. Fixes include YTDB and UDB fixes from their official
+							SVN's and forums. Includes UDB389 and YTDB541 fixes. 
+							Thank you - Hellscream Network Administrators.
+							NOTE: Do not forget to apply Corepatches and the FULL DB!
+								(if some of you have customized the database,
+								 we will provide a full Database with REPLACE
+								 statements later on our forums).
+[Rev 5] - Update to newest YTDB, include dual-spec+vehicles and update to newest MaNGOS rev
+[Rev 6] - Update to newest YTDB.
