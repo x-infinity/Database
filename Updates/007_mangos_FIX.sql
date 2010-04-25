@@ -151,6 +151,7 @@ UPDATE creature_template SET AIName='EventAI' WHERE entry=37011;
 INSERT  IGNORE INTO creature_ai_scripts values(3701101, '37011', '0', '0', '100', '7', '0', '0','30000','35000', '11', '70960', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', 'The Damned cast BONE_FLURRY on self');
 INSERT  IGNORE INTO creature_ai_scripts values(3701102, '37011', '6', '0', '100', '6', '0', '0','0','0', '11', '70961', '1', '1', '11', '71203', '1', '1', '0', '0', '0', '0', 'The Damned cast SHATTERED_BONES and SOUL_FEAST');
 
+UPDATE creature_template SET npcflag=128 WHERE entry IN(37998,37999, 38283, 38840, 38182);
 
 # Y2kCat
 # ALTER TABLE db_version_ytdb CHANGE COLUMN 543_FIX_9748 544_FIX_9773 bit;
