@@ -13,3 +13,4 @@
 								 statements later on our forums).
 [Rev 5] - Update to newest YTDB, include dual-spec+vehicles and update to newest MaNGOS rev
 [Rev 6] - Update to newest YTDB.
+[Rev 7] - UPDATE to newest YTDB, Some Hellscream fixes added aswell
