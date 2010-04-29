@@ -1,0 +1,66 @@
+4/25/2010- hs01
+
+34839-trash mob loot
+34838-trash mob loot  
+23574-Akil'zon loot
+19514-Al'ar <Phoenix God> loot
+11492-Alzzin the Wildshaper--loot-- added the class only quest items as well  
+
+
+
+//add quest a fall from grace requires core support  so using this quest on anything but a hellscreamcore or my core  it won't work  added sql and core support for it
+
+i believe i summited these once but will do it again in case they were missed
+
+// fixes
+
+1.RAZORFEN KRAUL 
+Rare Trash loot has been added to the trash mobs (items and drop % are from WoW loot atlas)
+Bosses tables have been doubled checked and fixed where needed- to match live
+2.SHADOWFANG KEEP
+Rare Trash Loot was added and fixed(all items and drop % are from WoW loot atlas)
+bosses loot tables were doubled checked and fixed were needed- to match live
+
+3.DEADMINES (WESTFALL
+entire zone loot tables were corrected and fixed were needed
+4.QUEST FIX 
+tarren mill: wanted baron vardus( was moved to the right spot for a quest he's involed in)- to match retail
+5.WAILING CAVERNS 
+all loot tables were doubled checked and corrected and fixed were needed
+
+6.WAILING CAVERNS ENTRANCE
+all loot tables were doubled checked and fixed and corrected were needed
+7.quest fix 
+Tarren mill ---- Dangerous(quest)
+
+miner hackett was in the wrong spot i have moved him to his correct room
+ 
+8.Npc fix 
+there are a few spirit healers missing around hilsbrad ive been adding them as i go i know ive missed a few will goes thur again soon 
+(if you seen anything missing about this subject in this area post it here)
+
+9.BLACKFATHOM DEEP 
+Rare Trash loot has been added and fixed to all the trash mobs
+Boss es loot tables have been doubled checked and corrected- to match live
+
+10.Fixed Ionar's loot table also completely double checked him and should be working fine if there anything wrong please post
+
+*****Halls of Lightning*******is where this boss is from
+
+
+11.Added Missing Quest "Noth's special brew" to Dk starting area and is repeatable as "live-like
+
+4/27/2010- hs02
+
+gnomeregan(easternkingdoms instance)
+
+
+1.added missing rare trash drop loot and corrected trash loot tables where need (also doubled checked all bosses)
+
+2. added missing to random mobs  :"security card key" for zone's back room 
+
+
+
+
+
+
